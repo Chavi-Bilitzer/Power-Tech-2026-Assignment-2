@@ -5,7 +5,7 @@ GREETING = "Hi"
 =======
 GREETING = "Shalom"
 >>>>>>> feature/greeting
-VERSION = "0.1"
+VERSION = "1.0"
 
 def greet(name):
     """Return a greeting for the given name."""
