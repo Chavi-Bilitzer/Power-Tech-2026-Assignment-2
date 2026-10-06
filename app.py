@@ -1,7 +1,7 @@
-﻿"""Power Tech 2026 - Assignment 2. Starter file. Do not rename this file and do not change its structure unless the assignment sheet tells you to. """
+"""Power Tech 2026 - Assignment 2. Starter file. Do not rename this file and do not change its structure unless the assignment sheet tells you to. """
 
 GREETING = "Shalom from Power Tech"
-VERSION = "0.1"
+VERSION = "1.0"
 
 def greet(name):
     """Return a greeting for the given name."""
